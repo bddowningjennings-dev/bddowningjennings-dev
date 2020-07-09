@@ -1,8 +1,12 @@
-### Hi there 👋
+### I'm Blane, howdy 👋
+##### Pronouns: He/Him
+---------
+
 
 <!--
 **bddowningjennings-dev/bddowningjennings-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm a mathematician, an automator, software engineer, developer, analyst, programmer... ✨ ***shrug***✨  I don't even know, I guess. But I've had jobs with these & other titles - this doesn't seem too important to me... Really, I value helping others and am trying to find the path that makes my life better through service to others and I'm constantly trying harder/getting better at making things because right now that's my path to rise up 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
